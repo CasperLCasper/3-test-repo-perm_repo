@@ -1,1 +1,3 @@
 4d.js
+
+sākums
