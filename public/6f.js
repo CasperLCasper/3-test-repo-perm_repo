@@ -1,1 +1,3 @@
 6f.js
+
+sākums
